@@ -15,4 +15,4 @@ Stomp protocol allows us to create reactive applications based on events. It giv
 
 * how to manage the interceptor
 * how to manage lifecycle of subscribed user on a topic
-* \+ Just for experimentation there is a useless Avro implementation as a maven plugin. Sorry for that :laughing:
+* \+ Just for experimentation there is an useless Avro implementation as a maven plugin. Sorry for that :laughing:
